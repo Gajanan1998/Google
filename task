@@ -1,0 +1,4 @@
+@Test
+	public void CreateaccountTest() {
+		System.out.println("Account is created");
+	}
